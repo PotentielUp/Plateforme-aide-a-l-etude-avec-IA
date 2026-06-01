@@ -58,7 +58,7 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 ---
 
 ## 🖼️ Aperçu de l'interface
-*(Conseil : Insère ici un screenshot de l'application ou un schéma montrant : Upload $\rightarrow$ Analyse $\rightarrow$ Résultat)*
+*Image de l'application*
 `![AI Architect Preview](assets/ai-preview.png)`
 
 ---
@@ -66,5 +66,5 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 ## 📩 Intéressé par l'intégration de l'IA dans vos processus ?
 Je crée des solutions d'IA sur-mesure qui apportent une réelle valeur métier sans compromettre la précision des données.
 - **LinkedIn :** [Ton lien]
-- **Email :** [Ton email]
+- **Email :** efficincypot@gmail.com
  

@@ -40,10 +40,10 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 ---
 
 ## 🛠️ Stack Technique (Prévisionnelle/Utilisée)
-- **Cerveau IA :** [OpenAI GPT-4 / Claude / Mistral]
-- **Framework d'orchestration :** [LangChain / LlamaIndex] (pour la gestion du contexte et des documents)
-- **Interface Utilisateur :** [Streamlit / React / Next.js]
-- **Traitement de documents :** [PyPDF / Pandas]
+- **Cerveau IA :** [Gemini]
+- **Framework d'orchestration :** [LangChain] (pour la gestion du contexte et des documents)
+- **Interface Utilisateur :** [Gradio]
+- **Traitement de documents :** [PyPDF]
 - **Langage :** Python
 
 ---
@@ -59,7 +59,7 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 
 ## 🖼️ Aperçu de l'interface
 *Image de l'application*
-`![AI Architect Preview](assets/ai-preview.png)`
+![AI Architect Preview](images/longoka.png)
 
 ---
 

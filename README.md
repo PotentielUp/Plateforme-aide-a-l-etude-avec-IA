@@ -65,6 +65,6 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 
 ## 📩 Intéressé par l'intégration de l'IA dans vos processus ?
 Je crée des solutions d'IA sur-mesure qui apportent une réelle valeur métier sans compromettre la précision des données.
-- **LinkedIn :** [Ton lien]
+- **Reserver un diagnostic gratuit :** https://calendly.com/efficiencypot/30min
 - **Email :** efficincypot@gmail.com
  

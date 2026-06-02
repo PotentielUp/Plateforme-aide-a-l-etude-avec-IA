@@ -13,7 +13,7 @@ L'accès à l'information est massif, mais la capacité à la structurer pour l'
 - **Imprécision de l'IA générique :** L'utilisation d'IA classiques (comme ChatGPT sans contexte) peut mener à des "hallucinations" ou à des réponses hors-sujet par rapport au programme officiel.
 
 ---
-
+ 
 ## ✅ La Solution : Une IA "Contrainte" et Spécialisée
 L'approche repose sur l'idée de transformer l'IA en un **architecte pédagogique** dont le cadre de travail est strictement limité au document fourni par l'utilisateur.
 

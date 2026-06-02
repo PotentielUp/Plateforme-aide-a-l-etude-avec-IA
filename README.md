@@ -1,4 +1,5 @@
-# 🧠 AI-Powered Pedagogical Architect : Ingénierie Pédagogique via l'IA
+
+ 🧠 AI-Powered Pedagogical Architect : Ingénierie Pédagogique via l'IA
 
 ## 🎯 Objectif du Projet
 Développer une plateforme intelligente capable de transformer des supports de cours bruts en parcours d'apprentissage structurés, optimisés et personnalisés, en utilisant la puissance des LLM (Large Language Models).
@@ -68,3 +69,4 @@ Je crée des solutions d'IA sur-mesure qui apportent une réelle valeur métier 
 - **Reserver un diagnostic gratuit :** https://calendly.com/efficiencypot/30min
 - **Email :** efficincypot@gmail.com
  
+[![Retour vers la page principale](https://img.shields.io/badge/Page principale style=for-the-badge)](  https://potentielup.github.io/PotentielUp-Automation/)

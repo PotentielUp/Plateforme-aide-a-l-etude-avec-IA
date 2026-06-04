@@ -50,6 +50,7 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 ---
 
 ## 📈 Valeur Ajoutée
+
 | Pour l'Apprenant | Pour le Formateur |
 | :--- | :--- |
 | Gain de temps massif dans la synthèse. | Automatisation de la création de supports. |
@@ -69,4 +70,4 @@ Je crée des solutions d'IA sur-mesure qui apportent une réelle valeur métier 
 - **Reserver un diagnostic gratuit :** https://calendly.com/efficiencypot/30min
 - **Email :** efficincypot@gmail.com
  
-[![Retour vers la page principale](https://img.shields.io/badge/Page principale style=for-the-badge)](  https://potentielup.github.io/PotentielUp-Automation/)
+[![Retour vers la page principale](https://img.shields.io/badge/Page principale-style=for-the-badge)](  https://potentielup.github.io/PotentielUp-Automation/)

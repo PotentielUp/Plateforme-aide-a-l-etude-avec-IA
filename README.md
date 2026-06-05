@@ -61,7 +61,7 @@ Le projet évolue vers une expérience interactive avec l'intégration d'un **Ch
 
 ## 🖼️ Aperçu de l'interface
 *Image de l'application*
-![AI Architect Preview](images/longoka.png)
+![AI Architect Preview](images/longokazo.png)
 
 ---
 
